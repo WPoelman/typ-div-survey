@@ -19,4 +19,4 @@ pip install -r requirements.txt
 And then run the notebooks in order.
 
 ## Credits
-Thank to Thomas Bauwens for his nice [plotting library](https://github.com/bauwenst/fiject).
+We want to thank Thomas Bauwens for his help creating the tables and his nice [plotting library](https://github.com/bauwenst/fiject).
